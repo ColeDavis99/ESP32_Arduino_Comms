@@ -4,6 +4,11 @@ Boilerplate for **bidirectional serial communication** between an **ESP32** and 
 
 ---
 
+## Instructions
+- Upload **Arduino_to_ESP32_Comms.ino** to Arduino Uno
+- Upload **main.cpp** to ESP32
+- Follow wiring diagram below
+
 ## 🔌 Wiring Diagram
 
 ### Arduino Uno → Logic Level Shifter (HV side)
