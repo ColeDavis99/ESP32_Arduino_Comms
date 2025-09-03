@@ -2,6 +2,9 @@
 
 Boilerplate for **bidirectional serial communication** between an **ESP32** and **Arduino Uno**.
 
+![20250902_213234](https://github.com/user-attachments/assets/b1483355-4732-4e1e-ad8f-ba8e79273b01)
+
+
 ---
 
 ## Instructions
